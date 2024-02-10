@@ -8,6 +8,9 @@
   "scripts": {
     "rollup": "rollup -c"
   },
+  "repository": {
+    "url": "https://github.com/Fixkey/test-component-lib"
+  },
   "author": "Fix Key",
   "license": "MIT",
   "devDependencies": {
