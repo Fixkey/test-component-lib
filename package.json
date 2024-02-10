@@ -1,5 +1,5 @@
 {
-  "name": "@Fixkey/my-test-react-component-library",
+  "name": "@Fixkey/test-component-lib",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/Fixkey"
   },
